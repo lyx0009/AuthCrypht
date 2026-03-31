@@ -25,5 +25,5 @@ if ($conn->connect_error) {
 // 4. Set character set to UTF-8
 $conn->set_charset("utf8mb4");
 
-// Success! Your database is connected.
+// Success! Your database is connected.awddwa
 ?>
